@@ -14,6 +14,7 @@
 		8898D6B12B72030D002B55F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8898D6AF2B72030D002B55F4 /* LaunchScreen.storyboard */; };
 		88998F0E2B72202D00842F19 /* TrackListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88998F0D2B72202D00842F19 /* TrackListViewController.swift */; };
 		88998F102B722C0200842F19 /* Track.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88998F0F2B722C0200842F19 /* Track.swift */; };
+		88998F122B723FFF00842F19 /* TrackDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88998F112B723FFF00842F19 /* TrackDetailsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8898D6B22B72030D002B55F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		88998F0D2B72202D00842F19 /* TrackListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackListViewController.swift; sourceTree = "<group>"; };
 		88998F0F2B722C0200842F19 /* Track.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Track.swift; sourceTree = "<group>"; };
+		88998F112B723FFF00842F19 /* TrackDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackDetailsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				8898D6A42B72030B002B55F4 /* AppDelegate.swift */,
 				8898D6A62B72030B002B55F4 /* SceneDelegate.swift */,
 				88998F0D2B72202D00842F19 /* TrackListViewController.swift */,
+				88998F112B723FFF00842F19 /* TrackDetailsViewController.swift */,
 				88998F0F2B722C0200842F19 /* Track.swift */,
 				8898D6AA2B72030B002B55F4 /* Main.storyboard */,
 				8898D6AD2B72030D002B55F4 /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			files = (
 				8898D6A52B72030B002B55F4 /* AppDelegate.swift in Sources */,
 				8898D6A72B72030B002B55F4 /* SceneDelegate.swift in Sources */,
+				88998F122B723FFF00842F19 /* TrackDetailsViewController.swift in Sources */,
 				88998F0E2B72202D00842F19 /* TrackListViewController.swift in Sources */,
 				88998F102B722C0200842F19 /* Track.swift in Sources */,
 			);
